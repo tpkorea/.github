@@ -1,6 +1,6 @@
 ---
-name: "TP Korea 이슈 "
-about: TP Korea의 github issue 템플릿입니다. 형식에 맞춰 내용을 작성해 주세요.
+name: "TP Korea 이슈템플릿 [BUG] "
+about: TP Korea의 github BUG issue 템플릿입니다. 형식에 맞춰 내용을 작성해 주세요.
 title: "[BUG]"
 labels: ''
 assignees: ''
