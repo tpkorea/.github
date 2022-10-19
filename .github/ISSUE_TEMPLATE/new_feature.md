@@ -2,7 +2,7 @@
 name: "TP Korea 이슈템플릿 [NEW FEATURE] "
 about: TP Korea의 github NEW FEATURE issue 템플릿입니다. 형식에 맞춰 내용을 작성해 주세요.
 title: "[NEW FEATURE]"
-labels: ''
+labels: 'enhancement'
 assignees: ''
 
 ---
